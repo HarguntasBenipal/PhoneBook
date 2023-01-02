@@ -1,7 +1,5 @@
 /*
 Name: Harguntas Singh Benipal
-Teacher Name: Mr. Bains
-Course : ICS4U0-A
 Date: October 13, 2022
 Description: This program is a phonebook mini-application that does multiple tasks. It does 3 things: Ask the user to enter a number into the phonebook, call someone and exit. To being with, the program asks
 the user how many numbers they want the phonebook to contain. Then it fills all those locations with "empty". The user then has to choose from the 3 options listed above. If they choose to enter a number, they will
